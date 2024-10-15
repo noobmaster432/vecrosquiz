@@ -87,7 +87,7 @@ Set Up Environment Variables:
     MONGO_URI=your-mongodb-uri
     JWT_SECRET=your-jwt-secret
     JWT_REFRESH_SECRET=your-jwt-refresh-secret
-    PORT=3000
+    PORT=preferred-port
 
 
 Run the Application:
