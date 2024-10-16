@@ -120,10 +120,11 @@ FOLDER STRUCTURE:
     index.js
 
 /server
-  /models
-  /routes
-  /controllers
-  /middleware
+  /src
+    /models
+    /routes
+    /controllers
+    /middleware
   index.js
 ````
 
